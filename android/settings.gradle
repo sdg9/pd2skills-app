@@ -1,0 +1,3 @@
+rootProject.name = 'PD2App'
+
+include ':app'
