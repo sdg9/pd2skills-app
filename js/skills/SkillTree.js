@@ -22,10 +22,13 @@ export default class SkillTree extends Component {
   render() {
     console.log('Tree', this.props.tree)
     return (
-      <View style={{flex: 1, backgroundColor: 'red'}}>
-      <Text>{this.props.tree.title}</Text>
-      <SkillBranch branch={this.props.tree.branches[0]} />
-      <SkillItem />
+      <View style={{flex: 1, alignItems: 'center', backgroundColor: 'red'}}>
+        <Text>{this.props.tree.title}</Text>
+        <View style={{flexDirection: 'row', flex: 1, backgroundColor: 'blue'}}>
+          <SkillBranch branch={this.props.tree.branches[0]} />
+          <SkillBranch branch={this.props.tree.branches[1]} />
+          <SkillBranch branch={this.props.tree.branches[2]} />
+        </View>
 
       </View>
     );

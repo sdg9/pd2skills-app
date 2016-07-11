@@ -31,7 +31,7 @@ class SkillBranch extends Component {
 
   render() {
     return (
-      <View>
+      <View style={{flex: 1, alignItems: 'center'}}>
         <Text>{this.props.branch.name}</Text>
         { this.props.branch.tiers.map((branchTier, idx) => {
           return <View key={idx} style={{flexDirection: 'row'}}>

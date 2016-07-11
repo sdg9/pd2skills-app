@@ -75,35 +75,35 @@
         ]
     },
 	"trees": 
-[{"branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "There is a 100% chance that you can revive crew members at a distance by shouting at them. This cannot occur more than once every 20 seconds.", "name": "inspire", "title": "Inspire", "basic_cost": 4, "basic_desc": "You revive crew members 50% faster. Shouting at your teammates will increase their movement speed by 20% for 30 seconds.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Adds 3 more first aid kits to your inventory. Your deployed first aid kits will be automatically used if a player would go down within a 5 meter radius of the first aid kit.", "name": "uppers", "title": "Uppers", "basic_cost": 3, "basic_desc": "Adds 7 more first aid kits to your inventory.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "Your doctor bags have 2 more charges.", "name": "combat-doctor", "title": "Combat Doctor", "basic_cost": 3, "basic_desc": "You can now place 2 doctor bags instead of just one.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Crew members that use your first aid kits or doctor bags take 15% less damage for 120 seconds.", "name": "quick_fix", "title": "Quick Fix", "basic_cost": 2, "basic_desc": "Decreases your first aid kit and doctor bag deploy time by 50%.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "The damage reduction is increased by an additional 50%.", "name": "painkillers", "title": "Painkillers", "basic_cost": 2, "basic_desc": "Crew members you revive take 30% less damage for 5 seconds.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Reviving a crew member gives them 30% more health.", "name": "combat-medic", "title": "Combat Medic", "basic_cost": 1, "basic_desc": "You gain a 30% damage reduction for 5 seconds both after and during reviving another player.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Medic"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Having at least one hostage or converted law enforcer makes you regenerate 4.5% health every 5 seconds.", "name": "hostage-taker", "title": "Hostage Taker", "basic_cost": 4, "basic_desc": "Having at least one hostage or converted law enforcer makes you regenerate 1.5% health every 5 seconds.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Your hostages will not flee when they have been rescued by law enforcers. Whenever you get into custody, your hostages will trade themselves for your safe return. This effect can occur during assaults, but only 1 time during a heist.", "name": "stockholm-syndrome", "title": "Stockholm Syndrome", "basic_cost": 3, "basic_desc": "Civilians are intimidated by the noise you make and remain intimitdated 50% longer.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "Having a converted enemy increases your health by 30%.\\nYour converted enemy takes an additional 45% less damage. Does not stack with Joker damage reduction, but multiplies.", "name": "partner-in-crime", "title": "Partner in crime", "basic_cost": 3, "basic_desc": "Having a converted enemy increases your movement speed by 10%. \\nYour converted enemy takes an additional 45% less damage. Does not stack with Joker damage reduction, but multiplies.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You can now have 2 converted enemies at the same time.", "name": "dominator", "title": "Confident", "basic_cost": 2, "basic_desc": "The power and range of your intimidation is increased by 50%.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "The converted enemy gains 55% more health and deals 45% more damage. The time to convert an enemy is reduced by 65%.", "name": "joker", "title": "Joker", "basic_cost": 2, "basic_desc": "You can convert a non-special enemy to figth on your side. This can not be done during stealth and the enemy must have surrendered in order for you to convert them.\\nYou can only convert one non-special enemy at a time.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You and your crew gain 0.5 damage absorption for each hostage you have. This effect stacks with up to a maximum of 8 hostages.\\nNote: This skill does not stack with other players Forced Friendship skill.", "name": "cable-guy", "title": "Forced Friendshiop", "basic_cost": 1, "basic_desc": "Increases your supply of cable ties by 4. You can cable tie hostages 75% faster.", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Controller"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "The amount of headshotes required is reduced to 2.", "name": "ammo_efficiency", "title": "Ammo Efficiency", "basic_cost": 4, "basic_desc": "Hitting 3 headshots in less than 6 seconds will refund 1 bullet to your used weapon. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot mode.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Enemies you mark take an additonal 50% damage when further than 10 meters.\\nIncreases the duration of marked enemies by 100% and you can now mark specials by aiming at them with any weapon.", "name": "high_value_target", "title": "High Value Target", "basic_cost": 3, "basic_desc": "Enemies you mark take 15% more damage.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "Any killing headshot will reduce your reload time by 40% for 2 seconds. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.", "name": "aggressive_reload", "title": "Aggressive Reload", "basic_cost": 3, "basic_desc": "Increases your reload speed with assault rifles by 15%.", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Your weapon zoom level is increased by 25% with all weapons. Your weapon accuracy while moving with SMGs, Assault Rifles and Sniper Rifles is increased by 50%.", "name": "sharpshooter", "title": "Rifleman", "basic_cost": 2, "basic_desc": "Your snap to zoom is 100% faster with all wepaons.\\nYour movement speed is unhindered while using steel sight.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain a 20% accuracy bonus while aiming down sights with all SMG, Assault Rifles and Sniper Rifles fired in single shot mode.", "name": "marksman", "title": "Marksman", "basic_cost": 2, "basic_desc": "You gain 8 weapon accuracy with all SMG, Assault Rifles and Sniper Rifles fired in single shot.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You gain 16 weapon accuracy while standing still.", "name": "rifleman", "title": "Stable shot", "basic_cost": 1, "basic_desc": "You gain 8 weapon stability.", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Sharpshooter"}], "name": "mastermind", "title": "Mastermind", "money_spent": 0, "points": 0, "active": true}, {"points": 0, "branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "The damage bonus now applies to all weapons. Skill must still be activated using a Shotgun or the OVE9000 portable saw. Your weapon swap speed is increased by 80%\\nNote: Does not apply to grenade launchers.", "name": "overkill", "title": "OVERKILL", "basic_cost": 4, "basic_desc": "When you kill an enemy with a shotgun or the OVE9000 portable saw, you recieve a 75% damage increase for 30 seconds.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You gain a 50% increased effective range with Shotguns when aiming down sights.", "name": "far_away", "title": "Far away", "basic_cost": 3, "basic_desc": "Your accuracy bonus while aiming down sights with Shotguns is increased by 40%.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "Your rate of fire is increased by 35% while firing from the hip with single shot Shotguns. Shotguns with magazines have their magazine sizes increased by 15 shells.", "name": "close_by", "title": "Close by", "basic_cost": 3, "basic_desc": "You can now hip-fire with your Shotguns while sprinting.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You reload shotguns 35% faster. You gain a 125% increased steel sight speed when using Shotguns.", "name": "shotgun_cqb", "title": "Shotgun CQB", "basic_cost": 2, "basic_desc": "You reload shotguns 15% faster.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "You deal 15% more damage with shotguns.", "name": "shotgun_impact", "title": "Shotgun Impact", "basic_cost": 2, "basic_desc": "Your weapon stability with all shotguns is increased by 8. You deal 10% more damage with shotguns.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "When three or more enemies are within 18 meters of you, you also receive 15% damage reduction that lasts for 7 seconds.", "name": "underdog", "title": "Underdog", "basic_cost": 1, "basic_desc": "When three or more enemies are within 18 meters of you, you receive a 15% damage bonus that lasts for 7 seconds.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Shotgun skills"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Unlocks the ability to wear the Improved Combined Tactical Vest.", "name": "iron-man", "title": "Iron Man", "basic_cost": 4, "basic_desc": "Your total armor values is increased by 30%.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Enables your weapons to have a chance to knock back Shield enemies when attacking them. Ranged weapons' knock back chance is increased the higher the total damage of the weapon is. Melee weapons' knock back chance is 100%.", "name": "shock_and_awe", "title": "Shock And Awe", "basic_cost": 3, "basic_desc": "Increases the armor recovery rate for you and your crew by 25%.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "You regenerate an additional 20 armor for each succesful headshot.", "name": "bullseye", "title": "Bullseye", "basic_cost": 3, "basic_desc": "You regenerate 5 armor for each successful headshot. This effect cannot occur more than once every 2 seconds.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Increases the armor of all Ballistic vests by 20.", "name": "die_hard", "title": "Die Hard", "basic_cost": 2, "basic_desc": "You take 50% less damage while interacting with objects.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "For each 10 armor points the bag movement penalty is reduced by 1%.", "name": "transporter", "title": "Transporter", "basic_cost": 2, "basic_desc": "You can throw bags 50% further.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Reduces the visual effect duration of Flashbangs by 75%", "name": "thick_skin", "title": "Resilience", "basic_cost": 1, "basic_desc": "Increases your armor recovery rate by 15%.", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Armor skill"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Increases the amount of ammo you gain from ammo boxes by 75%. You also gain a 5% base chance to get a throwable from an ammo box. The base chance is increased by 1% for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value. \\nNote: Does not stack with the perk deck skill \"Walk-in Closet\".", "name": "fully-loaded", "title": "Fully Loaded", "basic_cost": 4, "basic_desc": "Your total ammo capacity is increased by 25%.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Each ammo bag contains additional 200% ammunition.", "name": "ammunition-specialist", "title": "Extra Lead", "basic_cost": 3, "basic_desc": "You can now place 2 ammo bags isntead of just one.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "You can now saw through shield enemies with your OVE9000 portable saw. When killing an enemy with the saw, you have a 50% chance to cause nearby enemies in a 10 m radius to panic. Panic will make enemies go into short bursts of uncontrollable fear.", "name": "carbon-blade", "title": "Saw Massacre", "basic_cost": 3, "basic_desc": "Reducing the wear down of the blades on enemies by 50%.", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Increases the base duration of the effect by up to 15 seconds.", "name": "bullet-storm", "title": "Bulletstorm", "basic_cost": 2, "basic_desc": "Ammo bags placed by you grant players the ability to shoot without depleting their ammunition for up to 5 seconds after interacting with it. The more ammo players replenish, the longer the duration of the effect.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain 1 extra saw blade for the OVE0 9000 portable saw. You replace your saw blades with carbon blades, increasing your saw efficiency by 40%.", "name": "portable-saw", "title": "Portable Saw", "basic_cost": 2, "basic_desc": "Unlocks the OVE9000 portable saw for you to use as a secondary weapon.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Every 6th enemy you kill will drop an extra ammo box.", "name": "scavenger", "title": "Scavenger", "basic_cost": 1, "basic_desc": "Your ammo box pick up range is increased by 50%.", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Ammo skill"}], "name": "enforcer", "money_spent": 0, "title": "Enforcer"}, {"points": 0, "branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "You can now carry an additional 2 extra sentry guns.", "name": "tower_defense", "title": "Tower Defense", "basic_cost": 4, "basic_desc": "You can now carry 1 extra sentry guns.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You can now toggle AP rounds on your sentry guns, lowering the rate of fire by 75%, but increasing the damage by 250% and allowing it to pierce through enemies and shields.", "name": "engineering-", "title": "Engineering ", "basic_cost": 3, "basic_desc": "You can now select a less noisy version of the sentry guns, making them much less likely to be targeted by enemies.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "You can now equip a second deployable to bring with you. If your deployable is equipped as a secondary deployable, you can only bring half of what you would bring if it was equipped as a primary deployable.\\nPress X to toggle between deployables.", "name": "jack_of_all_trades", "title": "Jack of all trades", "basic_cost": 3, "basic_desc": "You deploy and interact with all deployables 50% faster.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Your sentry guns rotation speed is increased by 150%. Your sentry guns also have 50% more ammunition.", "name": "sentry_targeting_package", "title": "Sentry Targeting Package", "basic_cost": 2, "basic_desc": "Your sentry guns gain a 100% increase in accuracy.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "Your sentry guns gain 150% increased health.", "name": "eco_sentry", "title": "Eco Sentry", "basic_cost": 2, "basic_desc": "The cost of deploying a sentry gun is reduced to 48%.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Your sentry guns gain a protective shield.", "name": "third_law", "title": "Third Law", "basic_cost": 1, "basic_desc": "The cost of deploying a sentry gun is reduced to 56%.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Engineer"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Increases the fire effect duration by 10 secondsa nd increases the fire effect radius by 50%.", "name": "fire_trap", "title": "Fire trap", "basic_cost": 4, "basic_desc": "Your trip mines now spread fire around the area of detonation for 10 seconds in a 7.5 meter diameter.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You gain 2 more shaped charges and 7 more trip mines.", "name": "more_firepower", "title": "More Firepower", "basic_cost": 3, "basic_desc": "You gain 1 more shaped charges and 4 more trip mines.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "Enables the ability to reset a broken drill or saw with a melee attack. The ability has a 50% chance to fix the drill or saw. The ability can only be used once per time the drill or saw is broken.", "name": "kickstarter", "title": "Kickstarter", "basic_cost": 3, "basic_desc": "Your drills and saws gain an additional 20% chance to automatically restart after breaking.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Your trip mine damage is increased by  50%.", "name": "combat_engineering", "title": "Combat Engeneering", "basic_cost": 2, "basic_desc": "The radius of your trip mine explosion is increased by 30%.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "Your drill and saw timer is decreased by an additional 15%.", "name": "drill-sergeant", "title": "Drill Sawgeant", "basic_cost": 2, "basic_desc": "Your drill and saw timer is decreased by 15%.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Gives your drills and saws a 10% chance to automatically restart after breaking.", "name": "hardware_expert", "title": "Hardware Expert", "basic_cost": 1, "basic_desc": "You fix drills and saws 25% faster. Drills and saws are also silent.   Civilians and guards must see the drill or saw in order to become alerted. ", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Breacher"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "62.5% from the bonus headshot damage is is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.", "name": "body_expertise", "title": "Body expertise", "basic_cost": 4, "basic_desc": "18.75% from the bonus headshot damage is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Killing 2 enemies with SMGs, LMGs, Assault Rifles or Special Weapons set onautomatic fire mode will reduce your next reload time by up to 60%. This bonus is reduced by 1% for each bullet above 20 in the total magazine size, down to a minimum of 20% reload time reduction.", "name": "lock_n_load", "title": "Lock N' Load", "basic_cost": 3, "basic_desc": "You can now hip-fire with your weapons while sprinting.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "Your ranged weapons can now pierce through enemy body armor.\\nNote: Does not apply to throwable weapons.", "name": "surefire", "title": "Surefire", "basic_cost": 3, "basic_desc": "Your SMGs, LMGs and Assault Rifles gain 15 more bullets in the magazine. This does not affect the \"Lock n' Load\" Ace skill.", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Increases your stagger chance to 20%.", "name": "heavy_impact", "title": "Heavy impact", "basic_cost": 2, "basic_desc": "Your shots have a 5% chance to stagger all enemies except Bulldozers and Captain Winters.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "Your accuracy penalty is decreased by 20% when shooting while moving.", "name": "fire_control", "title": "Fire control", "basic_cost": 2, "basic_desc": "You gain 12 weapon accuracy while firing from the hip.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You gain 16 weapon stability.", "name": "steady_grip", "title": "Steady grip", "basic_cost": 1, "basic_desc": "You gain 8 weapon accuracy .", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Opressor"}], "name": "technician", "money_spent": 0, "title": "Technician"}, {"points": 0, "branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "The ECM jammer duration is increased by an additional 25% and the ECM feedback duration lasts 25% longer. Pagers are delayed by the ECM jammer. ", "name": "ecm-specialist", "title": "ECM Specialist", "basic_cost": 4, "basic_desc": "You can now place 2 ECM jammers instead of just one.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You lockpick 50% faster. You also gain the ability to lockpick safes.", "name": "nimble", "title": "Nimble", "basic_cost": 3, "basic_desc": "You gain the ability disable 1 camera from detecting you and your crew. Effect lasts for 25 seconds.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "Your ECM jammer can now also be used to open certain electronic doors.", "name": "ecm-overdrive", "title": "ECM Overdrive", "basic_cost": 3, "basic_desc": "Your ECM jammer and feedback duration is increased by 25%.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You gain the ability to place 2 body bag cases.", "name": "cleaner", "title": "Cleaner", "basic_cost": 2, "basic_desc": "You gain 1 additional body bag in your inventory.  Also increases the body bag inventory space to 3 from 2.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain access to all insider assets. Cleaning costs after killing a civilian is reduced by 75%.", "name": "sixth_sense", "title": "Sixth Sense", "basic_cost": 2, "basic_desc": "You gain the ability to automatically mark enemies within a 10 meter radius around you after standing still for 3.5 seconds while in stealth.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You can pick up items while in casing mode. You also gain 30% more value to items and cash that you pick up.", "name": "chameleon", "title": "Chameleon", "basic_cost": 1, "basic_desc": "Increases the time before you start getting detected by 25% while in casing mode. You can also mark enemies while in casing mode.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Covert Ops"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "You gain a 1% dodge chance for every 1 point of concealment under 35 up to a maximum of 10%.", "name": "sneaky_bastard", "title": "Sneaky Bastard", "basic_cost": 4, "basic_desc": "You gain a 1% dodge chance for every 3 points of concealment under 35 up to a maximum of 10%.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "The effect persists for 6 seconds after your armor has regenerated.", "name": "dire_need", "title": "Dire Need", "basic_cost": 3, "basic_desc": "When your armor breaks, the first shot on every enemy will cause that enemy to stagger. This effect ends when your armor regenerates.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "When tased, you are able to free yourself from the taser interacting with it within 2 seconds of getting tased.", "name": "shockproof", "title": "Shockproof", "basic_cost": 3, "basic_desc": "When tased, the shock effect has a 30% chance to backfire on the Taser, knocking them back.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": " You gain the ability to sprint in any direction.\\nRun and reload - you can reload your weapons while sprinting.", "name": "parkour", "title": "Parkour", "basic_cost": 2, "basic_desc": "You gain 10% additional movement speed and 20% ladder climbing speed.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "Increases the concealment of all ballistic vests by 4.", "name": "inner_pockets", "title": "Inner Pockets", "basic_cost": 2, "basic_desc": "Increases the concealment of melee weapons by 2.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You have 10% increased chance to dodge while sprinting. You gain 15% chance to dodge while crouching or ziplining.", "name": "duck_and_cover", "title": "Duck and Cover", "basic_cost": 1, "basic_desc": "Your stamina starts regenerating 25% earlier and 25% faster. You also sprint 25% faster.", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Commando"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "The critical hit chance duration is increased to 18 seconds.", "name": "unseen_strike", "title": "Unseen Strike", "basic_cost": 4, "basic_desc": " If you do not lose any armor or health for 4 seconds, you gain 35% critical hit chance for 6 seconds.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": " You gain a 3% critical hit chance for every 1 point of concealment under 35 up to a maximum of 30%.\\nNote: Does not apply to grenade launchers.", "name": "low_blow", "title": "Low Blow", "basic_cost": 3, "basic_desc": "You gain a 3% critical hit chance for every 3 points of concealment under 35 up to 30%.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "You deal an additional 15% more damage with all silenced weapons.", "name": "silent-killer", "title": "Specialized Killing", "basic_cost": 3, "basic_desc": "You deal 15% more damage with all silenced weapons", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You gain 1 concealment for reach silenced weapon you equip and reduces the concealment penalty of silencers by 2.", "name": "optical_illusions", "title": "Optical Illusions", "basic_cost": 2, "basic_desc": "You are 45% less likely to be targeted by enemies.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain 12 weapon accuracy with silenced weapons.", "name": "the-professional", "title": "The Professional", "basic_cost": 2, "basic_desc": "You gain 8 weapon stability and 100% snap to zoom speed increase with silenced weapons.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "This effect also applies your crew when triggered.", "name": "second_wind", "title": "Second Wind", "basic_cost": 1, "basic_desc": "When your armor breaks your movement speed is increased by 30% for 5 seconds.", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Silent Killer"}], "name": "ghost", "money_spent": 0, "title": "Ghost"}, {"points": 0, "branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Increases the damage boost duration to 10 seconds.", "name": "trigger_happy", "title": "Trigger Happy", "basic_cost": 4, "basic_desc": "For every hit with a pistol you gain 20% damage boost that lasts for 2 seconds. Stacks up to 4 times.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "The base damage of all pistols is increased by an additional 10 damage.", "name": "one_handed_talent", "title": "One Handed Talent", "basic_cost": 3, "basic_desc": "The base damage of all pistols is increased by 5.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "You reload pistols 50% faster.", "name": "desperado", "title": "Desperado", "basic_cost": 3, "basic_desc": "Each successful pistol hit gives you a 10% increased accuracy bonus for 10 seconds and can stack 4 times.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You gain a 50% increased rate of fire with pistols.", "name": "gun_nut", "title": "Gun Nut", "basic_cost": 2, "basic_desc": "Your pistol magazine sizes are increased by 5 bullets.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "Your Akimbo weapons' stability penalty is reduced by an additional 8 and they also have a 50% increased ammo capacity.", "name": "akimbo", "title": "Akimbo", "basic_cost": 2, "basic_desc": "Your Akimbo weapons' stability penalty is reduced by 8.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You gain a 8 weapon accuracy with pistols.", "name": "equilibrium", "title": "Equilibrium", "basic_cost": 1, "basic_desc": "Decreases the time it takes to draw and holster pistols by 80%.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Gunslinger"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Your Messiah charge is replenished whenever you use a doctor bag.", "name": "pistol-messiah", "title": "Messiah", "basic_cost": 4, "basic_desc": "While in bleedout, you can revive yourself if you kill an enemy. You only have 1 charge.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Increases the duration fo Sawn Song by 6 seconds. Ammunition won't be depleted while the effect is active.", "name": "swan_song", "title": "Swan Song", "basic_cost": 3, "basic_desc": "Instead of getting downed instantly, you gain the ability to keep fighting for 3 seconds with a 60% movement penalty before going down.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "The chance to get revived is increased by an additional 30%.", "name": "feign_death", "title": "Feign Death", "basic_cost": 3, "basic_desc": "When you get downed, you have a 15% chance to instantly get revived.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You move 30% faster for 10 second after being revived.", "name": "running_from_death", "title": "Running from Death", "basic_cost": 2, "basic_desc": "You reload and swap weapons 100% faster for 10 seconds after being revived.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain 15% of your maximum health after being revived.", "name": "up_you_go", "title": "Up You Go", "basic_cost": 2, "basic_desc": "You take 30% less damage for 10 seconds after being revived.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": " You gain the ability to get downed 1 more time before going into custody.", "name": "nine-lives", "title": "Nine Lives", "basic_cost": 1, "basic_desc": "You gain a 50% increase to bleedout health.", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Relentless"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Health damage taken is now reduced by 60% and healing received is reduce by 50%.", "name": "frenzy", "title": "Frenzy", "basic_cost": 4, "basic_desc": "You only get 30% of your maximum health and cannot heal above it but you take 30% less health damage and healing received is reduced by 75%.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You gain the ability to coutner attack cloackers and their kicks.", "name": "counter_strike", "title": "Counterstrike", "basic_cost": 3, "basic_desc": "When charging your melee weapon you will counterattack enemies that try to strike you, knocking them down. The knockdown does not deal any damange.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "The lower your health, the more damage you do. When your health is below 50%, you will do up to 100% more damage with ranged weapons as well.\\nNote: Does not apply to grenade launchers\\nEntering berserker state negates regeneration effects.", "name": "berserker", "title": "Berserker", "basic_cost": 3, "basic_desc": "The lower your health, the more damage you do. When your health is below 50%, you will do up to 250% more melee and saw damage.", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Whenever you kill an enemy with a melee attack, you will gain a 50% increase in reload speed for 10 seconds.", "name": "bloodthirst", "title": "Bloodthirst", "basic_cost": 2, "basic_desc": "Every kill you get will increase your next melee attack damage by 100%, up to a maximum of 300%. This effect gets reset when striking an enemy with a melee attack.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "Your melee attacks against special enemies do 50% more damage.", "name": "pumping-iron", "title": "Pumping Iron", "basic_cost": 2, "basic_desc": "Your melee attacks against non-special enemies do 50% more damage.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": " You are 50% more likely to knock down enemies with a melee strike.", "name": "martial_arts", "title": "Martial Arts", "basic_cost": 1, "basic_desc": " You take 50% less damage from all melee attacks. Because of training.", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Brawler"}], "name": "fugitive", "money_spent": 0, "title": "Fugitive"}]
+[{"branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "There is a 100% chance that you can revive crew members at a distance by shouting at them. This cannot occur more than once every 20 seconds.", "name": "inspire", "title": "Inspire", "basic_cost": 4, "basic_desc": "You revive crew members 50% faster. Shouting at your teammates will increase their movement speed by 20% for 30 seconds.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Adds 3 more first aid kits to your inventory. Your deployed first aid kits will be automatically used if a player would go down within a 5 meter radius of the first aid kit.", "name": "uppers", "title": "Uppers", "basic_cost": 3, "basic_desc": "Adds 7 more first aid kits to your inventory.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "Your doctor bags have 2 more charges.", "name": "combat_doctor", "title": "Combat Doctor", "basic_cost": 3, "basic_desc": "You can now place 2 doctor bags instead of just one.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Crew members that use your first aid kits or doctor bags take 15% less damage for 120 seconds.", "name": "quick_fix", "title": "Quick Fix", "basic_cost": 2, "basic_desc": "Decreases your first aid kit and doctor bag deploy time by 50%.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "The damage reduction is increased by an additional 50%.", "name": "painkillers", "title": "Painkillers", "basic_cost": 2, "basic_desc": "Crew members you revive take 30% less damage for 5 seconds.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Reviving a crew member gives them 30% more health.", "name": "combat_medic", "title": "Combat Medic", "basic_cost": 1, "basic_desc": "You gain a 30% damage reduction for 5 seconds both after and during reviving another player.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Medic"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Having at least one hostage or converted law enforcer makes you regenerate 4.5% health every 5 seconds.", "name": "hostage_taker", "title": "Hostage Taker", "basic_cost": 4, "basic_desc": "Having at least one hostage or converted law enforcer makes you regenerate 1.5% health every 5 seconds.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Your hostages will not flee when they have been rescued by law enforcers. Whenever you get into custody, your hostages will trade themselves for your safe return. This effect can occur during assaults, but only 1 time during a heist.", "name": "stockholm_syndrome", "title": "Stockholm Syndrome", "basic_cost": 3, "basic_desc": "Civilians are intimidated by the noise you make and remain intimitdated 50% longer.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "Having a converted enemy increases your health by 30%.\\nYour converted enemy takes an additional 45% less damage. Does not stack with Joker damage reduction, but multiplies.", "name": "partner_in_crime", "title": "Partner in crime", "basic_cost": 3, "basic_desc": "Having a converted enemy increases your movement speed by 10%. \\nYour converted enemy takes an additional 45% less damage. Does not stack with Joker damage reduction, but multiplies.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You can now have 2 converted enemies at the same time.", "name": "dominator", "title": "Confident", "basic_cost": 2, "basic_desc": "The power and range of your intimidation is increased by 50%.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "The converted enemy gains 55% more health and deals 45% more damage. The time to convert an enemy is reduced by 65%.", "name": "joker", "title": "Joker", "basic_cost": 2, "basic_desc": "You can convert a non_special enemy to figth on your side. This can not be done during stealth and the enemy must have surrendered in order for you to convert them.\\nYou can only convert one non_special enemy at a time.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You and your crew gain 0.5 damage absorption for each hostage you have. This effect stacks with up to a maximum of 8 hostages.\\nNote: This skill does not stack with other players Forced Friendship skill.", "name": "cable_guy", "title": "Forced Friendshiop", "basic_cost": 1, "basic_desc": "Increases your supply of cable ties by 4. You can cable tie hostages 75% faster.", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Controller"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "The amount of headshotes required is reduced to 2.", "name": "ammo_efficiency", "title": "Ammo Efficiency", "basic_cost": 4, "basic_desc": "Hitting 3 headshots in less than 6 seconds will refund 1 bullet to your used weapon. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot mode.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Enemies you mark take an additonal 50% damage when further than 10 meters.\\nIncreases the duration of marked enemies by 100% and you can now mark specials by aiming at them with any weapon.", "name": "high_value_target", "title": "High Value Target", "basic_cost": 3, "basic_desc": "Enemies you mark take 15% more damage.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "Any killing headshot will reduce your reload time by 40% for 2 seconds. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.", "name": "aggressive_reload", "title": "Aggressive Reload", "basic_cost": 3, "basic_desc": "Increases your reload speed with assault rifles by 15%.", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Your weapon zoom level is increased by 25% with all weapons. Your weapon accuracy while moving with SMGs, Assault Rifles and Sniper Rifles is increased by 50%.", "name": "sharpshooter", "title": "Rifleman", "basic_cost": 2, "basic_desc": "Your snap to zoom is 100% faster with all wepaons.\\nYour movement speed is unhindered while using steel sight.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain a 20% accuracy bonus while aiming down sights with all SMG, Assault Rifles and Sniper Rifles fired in single shot mode.", "name": "marksman", "title": "Marksman", "basic_cost": 2, "basic_desc": "You gain 8 weapon accuracy with all SMG, Assault Rifles and Sniper Rifles fired in single shot.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You gain 16 weapon accuracy while standing still.", "name": "rifleman", "title": "Stable shot", "basic_cost": 1, "basic_desc": "You gain 8 weapon stability.", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Sharpshooter"}], "name": "mastermind", "title": "Mastermind", "money_spent": 0, "points": 0, "active": true}, {"points": 0, "branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "The damage bonus now applies to all weapons. Skill must still be activated using a Shotgun or the OVE9000 portable saw. Your weapon swap speed is increased by 80%\\nNote: Does not apply to grenade launchers.", "name": "overkill", "title": "OVERKILL", "basic_cost": 4, "basic_desc": "When you kill an enemy with a shotgun or the OVE9000 portable saw, you recieve a 75% damage increase for 30 seconds.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You gain a 50% increased effective range with Shotguns when aiming down sights.", "name": "far_away", "title": "Far away", "basic_cost": 3, "basic_desc": "Your accuracy bonus while aiming down sights with Shotguns is increased by 40%.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "Your rate of fire is increased by 35% while firing from the hip with single shot Shotguns. Shotguns with magazines have their magazine sizes increased by 15 shells.", "name": "close_by", "title": "Close by", "basic_cost": 3, "basic_desc": "You can now hip_fire with your Shotguns while sprinting.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You reload shotguns 35% faster. You gain a 125% increased steel sight speed when using Shotguns.", "name": "shotgun_cqb", "title": "Shotgun CQB", "basic_cost": 2, "basic_desc": "You reload shotguns 15% faster.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "You deal 15% more damage with shotguns.", "name": "shotgun_impact", "title": "Shotgun Impact", "basic_cost": 2, "basic_desc": "Your weapon stability with all shotguns is increased by 8. You deal 10% more damage with shotguns.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "When three or more enemies are within 18 meters of you, you also receive 15% damage reduction that lasts for 7 seconds.", "name": "underdog", "title": "Underdog", "basic_cost": 1, "basic_desc": "When three or more enemies are within 18 meters of you, you receive a 15% damage bonus that lasts for 7 seconds.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Shotgun skills"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Unlocks the ability to wear the Improved Combined Tactical Vest.", "name": "iron_man", "title": "Iron Man", "basic_cost": 4, "basic_desc": "Your total armor values is increased by 30%.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Enables your weapons to have a chance to knock back Shield enemies when attacking them. Ranged weapons' knock back chance is increased the higher the total damage of the weapon is. Melee weapons' knock back chance is 100%.", "name": "shock_and_awe", "title": "Shock And Awe", "basic_cost": 3, "basic_desc": "Increases the armor recovery rate for you and your crew by 25%.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "You regenerate an additional 20 armor for each succesful headshot.", "name": "bullseye", "title": "Bullseye", "basic_cost": 3, "basic_desc": "You regenerate 5 armor for each successful headshot. This effect cannot occur more than once every 2 seconds.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Increases the armor of all Ballistic vests by 20.", "name": "die_hard", "title": "Die Hard", "basic_cost": 2, "basic_desc": "You take 50% less damage while interacting with objects.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "For each 10 armor points the bag movement penalty is reduced by 1%.", "name": "transporter", "title": "Transporter", "basic_cost": 2, "basic_desc": "You can throw bags 50% further.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Reduces the visual effect duration of Flashbangs by 75%", "name": "thick_skin", "title": "Resilience", "basic_cost": 1, "basic_desc": "Increases your armor recovery rate by 15%.", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Armor skill"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Increases the amount of ammo you gain from ammo boxes by 75%. You also gain a 5% base chance to get a throwable from an ammo box. The base chance is increased by 1% for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value. \\nNote: Does not stack with the perk deck skill \"Walk_in Closet\".", "name": "fully_loaded", "title": "Fully Loaded", "basic_cost": 4, "basic_desc": "Your total ammo capacity is increased by 25%.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Each ammo bag contains additional 200% ammunition.", "name": "ammunition_specialist", "title": "Extra Lead", "basic_cost": 3, "basic_desc": "You can now place 2 ammo bags isntead of just one.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "You can now saw through shield enemies with your OVE9000 portable saw. When killing an enemy with the saw, you have a 50% chance to cause nearby enemies in a 10 m radius to panic. Panic will make enemies go into short bursts of uncontrollable fear.", "name": "carbon_blade", "title": "Saw Massacre", "basic_cost": 3, "basic_desc": "Reducing the wear down of the blades on enemies by 50%.", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Increases the base duration of the effect by up to 15 seconds.", "name": "bullet_storm", "title": "Bulletstorm", "basic_cost": 2, "basic_desc": "Ammo bags placed by you grant players the ability to shoot without depleting their ammunition for up to 5 seconds after interacting with it. The more ammo players replenish, the longer the duration of the effect.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain 1 extra saw blade for the OVE0 9000 portable saw. You replace your saw blades with carbon blades, increasing your saw efficiency by 40%.", "name": "portable_saw", "title": "Portable Saw", "basic_cost": 2, "basic_desc": "Unlocks the OVE9000 portable saw for you to use as a secondary weapon.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Every 6th enemy you kill will drop an extra ammo box.", "name": "scavenger", "title": "Scavenger", "basic_cost": 1, "basic_desc": "Your ammo box pick up range is increased by 50%.", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Ammo skill"}], "name": "enforcer", "money_spent": 0, "title": "Enforcer"}, {"points": 0, "branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "You can now carry an additional 2 extra sentry guns.", "name": "tower_defense", "title": "Tower Defense", "basic_cost": 4, "basic_desc": "You can now carry 1 extra sentry guns.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You can now toggle AP rounds on your sentry guns, lowering the rate of fire by 75%, but increasing the damage by 250% and allowing it to pierce through enemies and shields.", "name": "engineering-", "title": "Engineering ", "basic_cost": 3, "basic_desc": "You can now select a less noisy version of the sentry guns, making them much less likely to be targeted by enemies.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "You can now equip a second deployable to bring with you. If your deployable is equipped as a secondary deployable, you can only bring half of what you would bring if it was equipped as a primary deployable.\\nPress X to toggle between deployables.", "name": "jack_of_all_trades", "title": "Jack of all trades", "basic_cost": 3, "basic_desc": "You deploy and interact with all deployables 50% faster.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Your sentry guns rotation speed is increased by 150%. Your sentry guns also have 50% more ammunition.", "name": "sentry_targeting_package", "title": "Sentry Targeting Package", "basic_cost": 2, "basic_desc": "Your sentry guns gain a 100% increase in accuracy.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "Your sentry guns gain 150% increased health.", "name": "eco_sentry", "title": "Eco Sentry", "basic_cost": 2, "basic_desc": "The cost of deploying a sentry gun is reduced to 48%.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Your sentry guns gain a protective shield.", "name": "third_law", "title": "Third Law", "basic_cost": 1, "basic_desc": "The cost of deploying a sentry gun is reduced to 56%.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Engineer"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Increases the fire effect duration by 10 secondsa nd increases the fire effect radius by 50%.", "name": "fire_trap", "title": "Fire trap", "basic_cost": 4, "basic_desc": "Your trip mines now spread fire around the area of detonation for 10 seconds in a 7.5 meter diameter.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You gain 2 more shaped charges and 7 more trip mines.", "name": "more_firepower", "title": "More Firepower", "basic_cost": 3, "basic_desc": "You gain 1 more shaped charges and 4 more trip mines.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "Enables the ability to reset a broken drill or saw with a melee attack. The ability has a 50% chance to fix the drill or saw. The ability can only be used once per time the drill or saw is broken.", "name": "kickstarter", "title": "Kickstarter", "basic_cost": 3, "basic_desc": "Your drills and saws gain an additional 20% chance to automatically restart after breaking.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Your trip mine damage is increased by  50%.", "name": "combat_engineering", "title": "Combat Engeneering", "basic_cost": 2, "basic_desc": "The radius of your trip mine explosion is increased by 30%.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "Your drill and saw timer is decreased by an additional 15%.", "name": "drill_sergeant", "title": "Drill Sawgeant", "basic_cost": 2, "basic_desc": "Your drill and saw timer is decreased by 15%.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "Gives your drills and saws a 10% chance to automatically restart after breaking.", "name": "hardware_expert", "title": "Hardware Expert", "basic_cost": 1, "basic_desc": "You fix drills and saws 25% faster. Drills and saws are also silent.   Civilians and guards must see the drill or saw in order to become alerted. ", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Breacher"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "62.5% from the bonus headshot damage is is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.", "name": "body_expertise", "title": "Body expertise", "basic_cost": 4, "basic_desc": "18.75% from the bonus headshot damage is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Killing 2 enemies with SMGs, LMGs, Assault Rifles or Special Weapons set onautomatic fire mode will reduce your next reload time by up to 60%. This bonus is reduced by 1% for each bullet above 20 in the total magazine size, down to a minimum of 20% reload time reduction.", "name": "lock_n_load", "title": "Lock N' Load", "basic_cost": 3, "basic_desc": "You can now hip_fire with your weapons while sprinting.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "Your ranged weapons can now pierce through enemy body armor.\\nNote: Does not apply to throwable weapons.", "name": "surefire", "title": "Surefire", "basic_cost": 3, "basic_desc": "Your SMGs, LMGs and Assault Rifles gain 15 more bullets in the magazine. This does not affect the \"Lock n' Load\" Ace skill.", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Increases your stagger chance to 20%.", "name": "heavy_impact", "title": "Heavy impact", "basic_cost": 2, "basic_desc": "Your shots have a 5% chance to stagger all enemies except Bulldozers and Captain Winters.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "Your accuracy penalty is decreased by 20% when shooting while moving.", "name": "fire_control", "title": "Fire control", "basic_cost": 2, "basic_desc": "You gain 12 weapon accuracy while firing from the hip.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You gain 16 weapon stability.", "name": "steady_grip", "title": "Steady grip", "basic_cost": 1, "basic_desc": "You gain 8 weapon accuracy .", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Opressor"}], "name": "technician", "money_spent": 0, "title": "Technician"}, {"points": 0, "branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "The ECM jammer duration is increased by an additional 25% and the ECM feedback duration lasts 25% longer. Pagers are delayed by the ECM jammer. ", "name": "ecm_specialist", "title": "ECM Specialist", "basic_cost": 4, "basic_desc": "You can now place 2 ECM jammers instead of just one.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You lockpick 50% faster. You also gain the ability to lockpick safes.", "name": "nimble", "title": "Nimble", "basic_cost": 3, "basic_desc": "You gain the ability disable 1 camera from detecting you and your crew. Effect lasts for 25 seconds.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "Your ECM jammer can now also be used to open certain electronic doors.", "name": "ecm_overdrive", "title": "ECM Overdrive", "basic_cost": 3, "basic_desc": "Your ECM jammer and feedback duration is increased by 25%.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You gain the ability to place 2 body bag cases.", "name": "cleaner", "title": "Cleaner", "basic_cost": 2, "basic_desc": "You gain 1 additional body bag in your inventory.  Also increases the body bag inventory space to 3 from 2.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain access to all insider assets. Cleaning costs after killing a civilian is reduced by 75%.", "name": "sixth_sense", "title": "Sixth Sense", "basic_cost": 2, "basic_desc": "You gain the ability to automatically mark enemies within a 10 meter radius around you after standing still for 3.5 seconds while in stealth.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You can pick up items while in casing mode. You also gain 30% more value to items and cash that you pick up.", "name": "chameleon", "title": "Chameleon", "basic_cost": 1, "basic_desc": "Increases the time before you start getting detected by 25% while in casing mode. You can also mark enemies while in casing mode.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Covert Ops"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "You gain a 1% dodge chance for every 1 point of concealment under 35 up to a maximum of 10%.", "name": "sneaky_bastard", "title": "Sneaky Bastard", "basic_cost": 4, "basic_desc": "You gain a 1% dodge chance for every 3 points of concealment under 35 up to a maximum of 10%.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "The effect persists for 6 seconds after your armor has regenerated.", "name": "dire_need", "title": "Dire Need", "basic_cost": 3, "basic_desc": "When your armor breaks, the first shot on every enemy will cause that enemy to stagger. This effect ends when your armor regenerates.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "When tased, you are able to free yourself from the taser interacting with it within 2 seconds of getting tased.", "name": "shockproof", "title": "Shockproof", "basic_cost": 3, "basic_desc": "When tased, the shock effect has a 30% chance to backfire on the Taser, knocking them back.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": " You gain the ability to sprint in any direction.\\nRun and reload - you can reload your weapons while sprinting.", "name": "parkour", "title": "Parkour", "basic_cost": 2, "basic_desc": "You gain 10% additional movement speed and 20% ladder climbing speed.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "Increases the concealment of all ballistic vests by 4.", "name": "inner_pockets", "title": "Inner Pockets", "basic_cost": 2, "basic_desc": "Increases the concealment of melee weapons by 2.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You have 10% increased chance to dodge while sprinting. You gain 15% chance to dodge while crouching or ziplining.", "name": "duck_and_cover", "title": "Duck and Cover", "basic_cost": 1, "basic_desc": "Your stamina starts regenerating 25% earlier and 25% faster. You also sprint 25% faster.", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Commando"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "The critical hit chance duration is increased to 18 seconds.", "name": "unseen_strike", "title": "Unseen Strike", "basic_cost": 4, "basic_desc": " If you do not lose any armor or health for 4 seconds, you gain 35% critical hit chance for 6 seconds.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": " You gain a 3% critical hit chance for every 1 point of concealment under 35 up to a maximum of 30%.\\nNote: Does not apply to grenade launchers.", "name": "low_blow", "title": "Low Blow", "basic_cost": 3, "basic_desc": "You gain a 3% critical hit chance for every 3 points of concealment under 35 up to 30%.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "You deal an additional 15% more damage with all silenced weapons.", "name": "silent_killer", "title": "Specialized Killing", "basic_cost": 3, "basic_desc": "You deal 15% more damage with all silenced weapons", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You gain 1 concealment for reach silenced weapon you equip and reduces the concealment penalty of silencers by 2.", "name": "optical_illusions", "title": "Optical Illusions", "basic_cost": 2, "basic_desc": "You are 45% less likely to be targeted by enemies.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain 12 weapon accuracy with silenced weapons.", "name": "the_professional", "title": "The Professional", "basic_cost": 2, "basic_desc": "You gain 8 weapon stability and 100% snap to zoom speed increase with silenced weapons.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "This effect also applies your crew when triggered.", "name": "second_wind", "title": "Second Wind", "basic_cost": 1, "basic_desc": "When your armor breaks your movement speed is increased by 30% for 5 seconds.", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Silent Killer"}], "name": "ghost", "money_spent": 0, "title": "Ghost"}, {"points": 0, "branches": [{"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Increases the damage boost duration to 10 seconds.", "name": "trigger_happy", "title": "Trigger Happy", "basic_cost": 4, "basic_desc": "For every hit with a pistol you gain 20% damage boost that lasts for 2 seconds. Stacks up to 4 times.", "az": "a", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "The base damage of all pistols is increased by an additional 10 damage.", "name": "one_handed_talent", "title": "One Handed Talent", "basic_cost": 3, "basic_desc": "The base damage of all pistols is increased by 5.", "az": "b", "id": 4}, {"aced_cost": 6, "aced_desc": "You reload pistols 50% faster.", "name": "desperado", "title": "Desperado", "basic_cost": 3, "basic_desc": "Each successful pistol hit gives you a 10% increased accuracy bonus for 10 seconds and can stack 4 times.", "az": "c", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You gain a 50% increased rate of fire with pistols.", "name": "gun_nut", "title": "Gun Nut", "basic_cost": 2, "basic_desc": "Your pistol magazine sizes are increased by 5 bullets.", "az": "d", "id": 7}, {"aced_cost": 4, "aced_desc": "Your Akimbo weapons' stability penalty is reduced by an additional 8 and they also have a 50% increased ammo capacity.", "name": "akimbo", "title": "Akimbo", "basic_cost": 2, "basic_desc": "Your Akimbo weapons' stability penalty is reduced by 8.", "az": "e", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": "You gain a 8 weapon accuracy with pistols.", "name": "equilibrium", "title": "Equilibrium", "basic_cost": 1, "basic_desc": "Decreases the time it takes to draw and holster pistols by 80%.", "az": "f", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Gunslinger"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Your Messiah charge is replenished whenever you use a doctor bag.", "name": "pistol_messiah", "title": "Messiah", "basic_cost": 4, "basic_desc": "While in bleedout, you can revive yourself if you kill an enemy. You only have 1 charge.", "az": "g", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "Increases the duration fo Sawn Song by 6 seconds. Ammunition won't be depleted while the effect is active.", "name": "swan_song", "title": "Swan Song", "basic_cost": 3, "basic_desc": "Instead of getting downed instantly, you gain the ability to keep fighting for 3 seconds with a 60% movement penalty before going down.", "az": "h", "id": 4}, {"aced_cost": 6, "aced_desc": "The chance to get revived is increased by an additional 30%.", "name": "feign_death", "title": "Feign Death", "basic_cost": 3, "basic_desc": "When you get downed, you have a 15% chance to instantly get revived.", "az": "i", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "You move 30% faster for 10 second after being revived.", "name": "running_from_death", "title": "Running from Death", "basic_cost": 2, "basic_desc": "You reload and swap weapons 100% faster for 10 seconds after being revived.", "az": "j", "id": 7}, {"aced_cost": 4, "aced_desc": "You gain 15% of your maximum health after being revived.", "name": "up_you_go", "title": "Up You Go", "basic_cost": 2, "basic_desc": "You take 30% less damage for 10 seconds after being revived.", "az": "k", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": " You gain the ability to get downed 1 more time before going into custody.", "name": "nine_lives", "title": "Nine Lives", "basic_cost": 1, "basic_desc": "You gain a 50% increase to bleedout health.", "az": "l", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Relentless"}, {"tiers": [{"skills": [{"aced_cost": 8, "aced_desc": "Health damage taken is now reduced by 60% and healing received is reduce by 50%.", "name": "frenzy", "title": "Frenzy", "basic_cost": 4, "basic_desc": "You only get 30% of your maximum health and cannot heal above it but you take 30% less health damage and healing received is reduced by 75%.", "az": "m", "id": 1}], "basic_money": 0, "unlock_tier": 18, "tier": 3, "aced_money": 0}, {"skills": [{"aced_cost": 6, "aced_desc": "You gain the ability to coutner attack cloackers and their kicks.", "name": "counter_strike", "title": "Counterstrike", "basic_cost": 3, "basic_desc": "When charging your melee weapon you will counterattack enemies that try to strike you, knocking them down. The knockdown does not deal any damange.", "az": "n", "id": 4}, {"aced_cost": 6, "aced_desc": "The lower your health, the more damage you do. When your health is below 50%, you will do up to 100% more damage with ranged weapons as well.\\nNote: Does not apply to grenade launchers\\nEntering berserker state negates regeneration effects.", "name": "berserker", "title": "Berserker", "basic_cost": 3, "basic_desc": "The lower your health, the more damage you do. When your health is below 50%, you will do up to 250% more melee and saw damage.", "az": "o", "id": 5}], "basic_money": 0, "unlock_tier": 3, "tier": 2, "aced_money": 0}, {"skills": [{"aced_cost": 4, "aced_desc": "Whenever you kill an enemy with a melee attack, you will gain a 50% increase in reload speed for 10 seconds.", "name": "bloodthirst", "title": "Bloodthirst", "basic_cost": 2, "basic_desc": "Every kill you get will increase your next melee attack damage by 100%, up to a maximum of 300%. This effect gets reset when striking an enemy with a melee attack.", "az": "p", "id": 7}, {"aced_cost": 4, "aced_desc": "Your melee attacks against special enemies do 50% more damage.", "name": "pumping_iron", "title": "Pumping Iron", "basic_cost": 2, "basic_desc": "Your melee attacks against non_special enemies do 50% more damage.", "az": "q", "id": 8}], "basic_money": 0, "unlock_tier": 1, "tier": 1, "aced_money": 0}, {"skills": [{"aced_cost": 3, "aced_desc": " You are 50% more likely to knock down enemies with a melee strike.", "name": "martial_arts", "title": "Martial Arts", "basic_cost": 1, "basic_desc": " You take 50% less damage from all melee attacks. Because of training.", "az": "r", "id": 17}], "basic_money": 0, "unlock_tier": 0, "tier": 0, "aced_money": 0}], "points": 0, "name": "Brawler"}], "name": "fugitive", "money_spent": 0, "title": "Fugitive"}]
   ,
 	"perkTrees": [{
 		"title": "Crew Chief",
-		"name": "crew-chief",
+		"name": "crew_chief",
 		"id": 0,
 		"perks": [{
 			"title": "Brute Strength",
-			"name": "brute-strength",
+			"name": "brute_strength",
 			"desc": "You gain 10% more health."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Marathon Man",
-			"name": "marathon-man",
+			"name": "marathon_man",
 			"desc": "You and your crew's stamina is increased by 50%."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Wolf Pack",
-			"name": "wolf-pack",
+			"name": "wolf_pack",
 			"desc": "You and your crew gains 15% more health."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Testudo",
@@ -111,11 +111,11 @@
 			"desc": "You gain 10% more armor and your crew gains an additional 5% more armor.\n\nNote: Crew perks do not stack."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Hostage Situation",
-			"name": "hostage-situation",
+			"name": "hostage_situation",
 			"desc": "You and your crew gains 2% max health and 4% stamina for each hostage up to 10 times.\n\nYou and your crew will gain 8% damage reduction for having an hostage. \n\nNote: Crew perks do not stack.\n\nDeck completion Bonus: Your chance of getting a higher quality item during PAYDAY is increased by 10%."
 		}]
 	}, {
@@ -124,39 +124,39 @@
 		"id": 2,
 		"perks": [{
 			"title": "Brute Strength",
-			"name": "brute-strength",
+			"name": "brute_strength",
 			"desc": "You gain 10% more health."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Meat Shield",
-			"name": "meat-shield",
+			"name": "meat_shield",
 			"desc": "You are 15% more likely to be targeted when you are close to your crew members.\n\nYou gain 10% more health."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Giant Strength",
-			"name": "giant-strength",
+			"name": "giant_strength",
 			"desc": "You gain an additional 30% more health."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Disturbing the Peace",
-			"name": "disturbing-the-peace",
+			"name": "disturbing_the_peace",
 			"desc": "You can now use light machine guns, submachine guns and sniper rifles to spread panic among your enemies.\n\nPanic will make enemies go into short bursts of uncontrollable fear."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "800-pound Gorilla",
-			"name": "eighthundred-pound-gorilla",
+			"name": "eighthundred_pound_gorilla",
 			"desc": "You gain an additional 40% more health.\n\nYou regenerate 4% of your life every 5 seconds.\n\nDeck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by 10%."
 		}]
 	}, {
@@ -165,39 +165,39 @@
 		"id": 3,
 		"perks": [{
 			"title": "Type I Armor",
-			"name": "type-i-armor",
+			"name": "type_i_armor",
 			"desc": "You gain 10% more armor."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Type II Armor",
-			"name": "type-ii-armor",
+			"name": "type_ii_armor",
 			"desc": "You gain an additional 10% more armor."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Type III Armor",
-			"name": "type-iii-armor",
+			"name": "type_iii_armor",
 			"desc": "You gain an additional 10% more armor."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Reinforced Armor",
-			"name": "reinforced-armor",
+			"name": "reinforced_armor",
 			"desc": "You armor recovery rate is increased by 10%."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Liquid Armor",
-			"name": "liquid-armor",
+			"name": "liquid_armor",
 			"desc": "You gain an additional 5% more armor.\n\nReduces the armor recovery time for you and your crew by 10%.\n\nNote: Crew perks to not stack.\n\nYour chance of getting a higher quality item during a PAYDAY is increased by 10%. "
 		}]
 	}, {
@@ -210,7 +210,7 @@
 			"desc": "Your chance to dodge is increased by 5%."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Elusive",
@@ -218,7 +218,7 @@
 			"desc": "You are 15% less likely to be targeted when you are close to your crew members."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Evasive",
@@ -226,19 +226,19 @@
 			"desc": "Your chance to doge is increased by an additional 10%."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Shadow Warrior",
-			"name": "shadow-warrior",
+			"name": "shadow_warrior",
 			"desc": "Your chance to dodge is increased by an additional 10%."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Killer Instinct",
-			"name": "killer-instinct",
+			"name": "killer_instinct",
 			"desc": "All your weapons have a 25% chance to pierce enemy armor.\n\nThe time between swapping weapons is reduced to for you by 80%. Your chance of getting a higher quality item during a PAYDAY is increased by 10%."
 		}]
 	}, {
@@ -247,11 +247,11 @@
 		"id": 5,
 		"perks": [{
 			"title": "Basic Recovery",
-			"name": "basic-recovery",
+			"name": "basic_recovery",
 			"desc": "Your armor recovery rate is increased by 5%."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Ambidexterity",
@@ -259,27 +259,27 @@
 			"desc": "You can dual wield two weapons. These can be found under the Akimbo tab in the inventory menu.\n\nDual wielded weapons have a 75% stability penalty.\n\nYour armor recovery rate is increased by an additional 10%, but you lose 5% armor."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Advanced Recovery",
-			"name": "advanced-recovery",
+			"name": "advanced_recovery",
 			"desc": "Your armor recovery rate is increased by an additional 10%, but you lose 5% armor."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Expert Recovery",
-			"name": "expert-recovery",
+			"name": "expert_recovery",
 			"desc": "Your armor recovery rate is increased by an additional 10%, but you lose 5% armor."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Tooth and Claw",
-			"name": "tooth-and-claw",
+			"name": "tooth_and_claw",
 			"desc": "Your armor recovery rate is increased by an additional 10%, but you lose 5% armor.\n\nYour stability penalty with Akimbo weapons is set to 50% and increases the ammo capacity of your Akimbo weapons to 125%.\n\nDeck completion Bonus: Your chance of getting a higher quality item during PAYDAY is increased by 10%."
 		}]
 	}, {
@@ -292,35 +292,35 @@
 			"desc": "Your chance to dodge is increased by 5%."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Basic Composure",
-			"name": "basic-composure",
+			"name": "basic_composure",
 			"desc": "Your chance to dodge is increased by 10% for ballistic vests. \n\nYour armor is increased by 20% for ballistic vests."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Advanced Composure",
-			"name": "advanced-composure",
+			"name": "advanced_composure",
 			"desc": "Your chance to dodge is increased by 10% for ballistic vests. \n\nYour armor is increased by 20% for ballistic vests."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Expert Composure",
-			"name": "expert-composure",
+			"name": "expert_composure",
 			"desc": "Your chance to dodge is increased by 15% for ballistic vests. \n\nYour armor is increased by 25% for ballistic vests."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Master Recovery",
-			"name": "master-recovery",
+			"name": "master_recovery",
 			"desc": "Your armor recovery rate is increased by an additional 10%.\n\nDeck completion Bonus: Your chance of getting a higher quality item during PAYDAY is increased by 10%."
 		}]
 	}, {
@@ -333,35 +333,35 @@
 			"desc": "Your chance to dodge is increased by 10%."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Bag of Tricks",
-			"name": "bag-of-tricks",
+			"name": "bag_of_tricks",
 			"desc": "Standing still and crouching decreases your chances to be targeted by 10%.\n\nYou bag corpses 20% faster."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Luck of the Irish",
-			"name": "luck-of-the-irish",
+			"name": "luck_of_the_irish",
 			"desc": "Your chance to dodge is increased by an additional 5%.\n\nYour chance to be targeted while standing still and crouching is decreased by an additional 5%.\n\nYou pick locks 20% faster."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Dutch Courage",
-			"name": "dutch-courage",
+			"name": "dutch_courage",
 			"desc": "Your chance to dodge is increased by an additional 5%.\n\nYour chance to be targeted while standing still and crouching is decreased by an additional 5%.\n\nYou answer pagers 10% faster."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Breath of Fresh Air",
-			"name": "breath-of-fresh-air",
+			"name": "breath_of_fresh_air",
 			"desc": "Standing still and crouching increases your armor recovery rate by 20%.\n\nDeck completion Bonus: Your chance of getting a higher quality item during PAYDAY is increased by 10%."
 		}]
 	}, {
@@ -370,27 +370,27 @@
 		"id": 7,
 		"perks": [{
 			"title": "Basic Close Combat",
-			"name": "basic-close-combat",
+			"name": "basic_close_combat",
 			"desc": "When you are within medium range of an enemy, you receive 8% less damage from enemies."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Advanced Close Combat",
-			"name": "advanced-close-combat",
+			"name": "advanced_close_combat",
 			"desc": "When you are within medium range of an enemy, you receive an additional 8% less damage from enemies."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Expert Close Combat",
-			"name": "expert-close-combat",
+			"name": "expert_close_combat",
 			"desc": "When you are within medium range of an enemy, you receive an additional 8% less damage from enemies.\n\nEach successful melee hit grants and additional 10% melee damage boost for 7 seconds and can stack up to 4 times."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Overdog",
@@ -398,11 +398,11 @@
 			"desc": "When you are surrounded by three enemies or more, you an additional 8% less damage from enemies.\n\nEach successful melee hit grants and additional 10% melee damage boost for 7 seconds and can stack up to 4 times."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Life Drain",
-			"name": "life-drain",
+			"name": "life_drain",
 			"desc": "Striking an enemy with your melee weapon regenerates 20% of your health.  This cannot occur more than once every 10 seconds.\n\nDeck completion Bonus: Your chance of getting a higher quality item during PAYDAY is increased by 10%."
 		}]
 	}, {
@@ -411,11 +411,11 @@
 		"id": 8,
 		"perks": [{
 			"title": "No Talk",
-			"name": "no-talk",
+			"name": "no_talk",
 			"desc": "When you are within medium range of an enemy, you receive 8% less damage from enemies."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Tension",
@@ -423,15 +423,15 @@
 			"desc": "Killing an enemy regenerates 30 armor. This cannot occur more than once every 2 seconds."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Clean Hit",
-			"name": "clean-hit",
+			"name": "clean_hit",
 			"desc": "Killing an enemy with a melee weapon regenerates 10% health. This cannot occur more than once every 2 seconds."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Overdose",
@@ -439,7 +439,7 @@
 			"desc": "Killing an enemy at medium range regenerates 30 armor. This cannot occur more than once every 2 seconds."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Showdown",
@@ -452,39 +452,39 @@
 		"id": 9,
 		"perks": [{
 			"title": "Medical Supplies",
-			"name": "medical-supplies",
+			"name": "medical_supplies",
 			"desc": "Ammo packs you pick up also yield medical supplies and heals you for 8 to 12 health. Cannot occur more than once every 4 seconds."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Ammo Give Out",
-			"name": "ammo-give-out",
+			"name": "ammo_give_out",
 			"desc": "When you pick up ammo, you trigger an ammo pickup for 100% of normal pickup to other players in your team. Cannot occur more than once every 5 seconds."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Sharing Is Caring",
-			"name": "sharing-is-caring",
+			"name": "sharing_is_caring",
 			"desc": "When you get healed from picking up ammo packs, your teammates also get healed for 50% of the amount."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "More Healing 1",
-			"name": "more-healing-1",
+			"name": "more_healing_1",
 			"desc": "Increase health gained from ammo packs by additional 4."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "More Healing 2",
-			"name": "more-healing-2",
+			"name": "more_healing_2",
 			"desc": "Increase health gained from ammo packs by additional 4."
 		}]
 	}, {
@@ -497,7 +497,7 @@
 			"desc": "Damaging an enemy heals 1 life points every 0.5 seconds for 5 seconds.  This effect stacks, but cannot occur more than once every 1.5 seconds, and only while wearing the Two-Piece Suit or Lightweight Ballistic Vest."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Adrenaline",
@@ -505,7 +505,7 @@
 			"desc": "Damaging an enemy now heals 2 life points every 0.5 seconds for 5 seconds.  You gain 20% more health."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Endorphins",
@@ -513,7 +513,7 @@
 			"desc": "Damaging an enemy now heals 3 life points every 0.5 seconds for 5 seconds.  Your chance to pierce enemy armour is increased by 10%."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Dopamine",
@@ -521,7 +521,7 @@
 			"desc": "Damaging an enemy now heals 4 life points every 0.5 seconds for 5 seconds.  You gain 20% more health."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Euphoria",
@@ -538,7 +538,7 @@
 			"desc": "The lower your health, the more armor recovery rate you have. When your health is below 25%, you will gain up to 20% armor recovery rate.  NOTE: Entering this state negates regeneration effects."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "Hebi Irezumi",
@@ -546,7 +546,7 @@
 			"desc": "The lower your health, the more movement speed you gain. When your health is below 25%, you will gain up to 20% movement speed."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Tora Irezumii",
@@ -554,7 +554,7 @@
 			"desc": "The lower your health, the more armor recovery rate you have. When your health is below 25%, you will gain up to an additional 20% armor recovery rate."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Ryu Irezumi",
@@ -562,7 +562,7 @@
 			"desc": "The lower your health, the more armor recovery rate you have. When your health is below 25%, you will gain up to an additional 20% armor recovery rate."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "Oni Irezumi",
@@ -571,7 +571,7 @@
 		}]
 	}, {
 		"title": "Ex-President",
-		"name": "ex-president",
+		"name": "ex_president",
 		"id": 12,
 		"perks": [{
 			"title": "Point Break",
@@ -579,7 +579,7 @@
 			"desc": "While your armor is up, you will store 4 health for every 1 enemy you or your crew kills.\n\n When your armor has been completely depleted and then starts to regenerate, you will gain health equal to the stored health amount.\n\n Maximum amount of stored health depends on your equipped armor."
 		}, {
 			"title": "Helmet Popping",
-			"name": "helmet-popping",
+			"name": "helmet_popping",
 			"desc": "Increases your headshot damage by 25%."
 		}, {
 			"title": "The Emerging Force",
@@ -587,7 +587,7 @@
 			"desc": "Increases the amount of health stored from kills by 4.\n\n You gain 10% more health.\n\n Your chance to dodge is increased by 10% when you have one of the ballistic vests equipped."
 		}, {
 			"title": "Blending In",
-			"name": "blending-in",
+			"name": "blending_in",
 			"desc": "You gain +1 increased concealment.\n\nWhen wearing armor, your movement speed is 15% less affected.\n\nYou gain 45% more experience when you complete days and jobs."
 		}, {
 			"title": "Life of Ice",
@@ -595,7 +595,7 @@
 			"desc": "Increases the maximum health that can be stored by 50%.\n\n You gain 10% more health.\n\n Your chance to dodge is increased by 5%."
 		}, {
 			"title": "Walk-in Closet",
-			"name": "walk-in-closet",
+			"name": "walk_in_closet",
 			"desc": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.\n\nIncreases your ammo pickup to 135% of the normal rate."
 		}, {
 			"title": "Awakening Earth",
@@ -603,7 +603,7 @@
 			"desc": "Increases the amount of health stored from kills by 4.\n\n You gain 20% more health.\n\n Your chance to dodge is increased by 10% when you have one of the ballistic vests equipped."
 		}, {
 			"title": "Fast and Furious",
-			"name": "fast-and-furious",
+			"name": "fast_and_furious",
 			"desc": "You do 5% more damage.\n\nIncreases your doctor bag interaction speed by 20%."
 		}, {
 			"title": "The Perfect Line",

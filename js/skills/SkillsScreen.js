@@ -32,10 +32,14 @@ class SkillsScreen extends Component {
   render() {
 
     return (
-      <ScrollView style={{paddingTop: 50}}>
+      <ScrollableTabView style={{marginTop: 50}}>
           <SkillTree tabLabel="Mastermind" tree={this.props.skills.trees[0]} />
-
-      </ScrollView>
+          <SkillTree tabLabel="Enforcer" tree={this.props.skills.trees[1]} />
+          <SkillTree tabLabel="Technician" tree={this.props.skills.trees[2]} />
+          <SkillTree tabLabel="Ghost" tree={this.props.skills.trees[3]} />
+          <SkillTree tabLabel="Fugitive" tree={this.props.skills.trees[4]} />
+          <SkillTree tabLabel="Infamy" tree={this.props.skills.trees[4]} />
+      </ScrollableTabView>
     );
   }
 }
