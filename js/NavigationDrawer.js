@@ -2,18 +2,13 @@ import React, { PropTypes } from 'react';
 import {Text, StyleSheet, Platform, Dimensions, DrawerLayoutAndroid, View} from 'react-native';
 import Drawer from 'react-native-drawer';
 import { DefaultRenderer, Actions } from 'react-native-router-flux';
+import NavItems from './NavItems'
 
 //import TabView from './TabView';
 
 const propTypes = {
   navigationState: PropTypes.object,
 };
-
-const NavItems = () => {
-  return (
-    <View><Text>HI</Text></View>
-  )
-}
 
 class NavigationDrawer extends React.Component {
   render() {
