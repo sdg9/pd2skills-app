@@ -8,15 +8,18 @@ import {Text, StyleSheet, Platform, Dimensions, DrawerLayoutAndroid, View} from 
 import { bindActionCreators } from 'redux';
 import { Router, Scene, Schema, } from 'react-native-router-flux';
 import { connect } from 'react-redux';
+import SkillsScreen from 'SkillsScreen';
 
 const RouterWithRedux = connect()(Router);
 
-class PD2Skills extends Component {
+export default class PD2Skills extends Component {
   render() {
     return (
-      <View>
-        <Text>Hi</Text>
-      </View>
+      <RouterWithRedux >
+        <Scene key="root">
+          <Scene key="skills" component={SkillsScreen} title="Skills"/>
+        </Scene>
+      </RouterWithRedux>
     )
   }
 }

@@ -1,18 +1,21 @@
 /**
  * App entry point.
  * Mostly application bootstrapping
- *
+ * @providesModule setup
  * @flow
  */
 'use strict'
 import React, {Component} from 'react';
-import {Platform, BackAndroid, ToastAndroid, DeviceEventEmitter} from 'react-native';
+import {View, Text, Platform, BackAndroid, ToastAndroid, DeviceEventEmitter} from 'react-native';
 import { Provider } from 'react-redux';
 import env from 'env';
 import PD2App from './PD2App';
 import Playground from './Playground';
+import configureStore from './store/configureStore'
 
-export default setup = (): ReactClass<{}> => {
+const store = configureStore();
+
+export default function setup(){
   class Root extends Component {
 
     render() {
