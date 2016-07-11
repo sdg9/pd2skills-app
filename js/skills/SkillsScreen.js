@@ -13,6 +13,7 @@ import ScrollableTabView from 'react-native-scrollable-tab-view'
 import SkillTree from 'SkillTree';
 
 const mapStateToProps = (state) => ({
+  skills: state.skills
 });
 
 const mapDispatchToProps = (dispatch) => {
@@ -29,9 +30,10 @@ class SkillsScreen extends Component {
   }
 
   render() {
+
     return (
-      <ScrollView>
-          <SkillTree tabLabel="Mastermind" treeName="Mastermind"  />
+      <ScrollView style={{paddingTop: 50}}>
+          <SkillTree tabLabel="Mastermind" tree={this.props.skills.trees[0]} />
 
       </ScrollView>
     );

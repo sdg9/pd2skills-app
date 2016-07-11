@@ -11,34 +11,23 @@ import { connect } from 'react-redux';
 import { Actions } from 'react-native-router-flux';
 import ScrollableTabView from 'react-native-scrollable-tab-view'
 import SkillItem from 'SkillItem';
+import SkillBranch from 'SkillBranch';
 
-const mapStateToProps = (state) => ({
-});
-
-const mapDispatchToProps = (dispatch) => {
-  return {
-  }
-};
-
-class SkillTree extends Component {
+export default class SkillTree extends Component {
   constructor(props) {
     super(props);
-  }
-
-  componentWillMount(){
+    console.log("Trees: ", props.tree);
   }
 
   render() {
+    console.log('Tree', this.props.tree)
     return (
       <View style={{flex: 1, backgroundColor: 'red'}}>
-      <Text>{this.props.treeName}</Text>
-      <SkillItem />
-      <SkillItem />
-      <SkillItem />
+      <Text>{this.props.tree.title}</Text>
+      <SkillBranch branch={this.props.tree.branches[0]} />
       <SkillItem />
 
       </View>
     );
   }
 }
-export default connect(mapStateToProps, mapDispatchToProps)(SkillTree);

@@ -5,7 +5,7 @@
  */
 'use strict';
 import React, {Component} from 'react';
-import {Text, View, Image} from 'react-native';
+import {Text, View, Image, TouchableOpacity} from 'react-native';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 import { Actions } from 'react-native-router-flux';
@@ -19,6 +19,9 @@ const mapDispatchToProps = (dispatch) => {
   }
 };
 
+const imageList = {};
+imageList['inspire'] = require('../lib/img/skills/inspire.png');
+
 class SkillItem extends Component {
   constructor(props) {
     super(props);
@@ -28,11 +31,19 @@ class SkillItem extends Component {
   }
 
   render() {
+    if (this.props.data) {
+      console.log('Name:', this.props.data.name)
+      return (
+        <TouchableOpacity onPress={this.props.onPress} onLongPress={this.props.onLongPress}>
+        <Text>{this.props.data.name}</Text>
+        <Image source={imageList[this.props.data.name]} />
+        </TouchableOpacity>
+      )
+    }
     return (
-      <View >
-        <Text>Name</Text>
-        <Image source={} />
-      </View>
+      <TouchableOpacity onPress={this.props.onPress} onLongPress={this.props.onLongPress}>
+      <Image source={require('../lib/img/skills/akimbo.png')} />
+      </TouchableOpacity>
     );
   }
 }
